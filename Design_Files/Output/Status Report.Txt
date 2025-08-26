@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [ESP-MACRO-1.PcbDoc]
+   Generated File[ESP-MACRO-1.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:00:28 PM On 23/07/2025

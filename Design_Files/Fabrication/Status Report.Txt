@@ -1,0 +1,40 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [ESP-MACRO-1.PcbDoc]
+   Generated File[ESP-MACRO-1.GTO]
+   Generated File[ESP-MACRO-1.GTP]
+   Generated File[ESP-MACRO-1.GTS]
+   Generated File[ESP-MACRO-1.GTL]
+   Generated File[ESP-MACRO-1.G1]
+   Generated File[ESP-MACRO-1.G2]
+   Generated File[ESP-MACRO-1.GBL]
+   Generated File[ESP-MACRO-1.GBS]
+   Generated File[ESP-MACRO-1.GBP]
+   Generated File[ESP-MACRO-1.GBO]
+   Generated File[ESP-MACRO-1.GM1]
+   Generated File[ESP-MACRO-1.GM2]
+   Generated File[ESP-MACRO-1.GM4]
+   Generated File[ESP-MACRO-1.GM6]
+   Generated File[ESP-MACRO-1.GM7]
+   Generated File[ESP-MACRO-1.GM13]
+   Generated File[ESP-MACRO-1.GM15]
+   Generated File[ESP-MACRO-1.GM20]
+   Generated File[ESP-MACRO-1.GM21]
+   Generated File[ESP-MACRO-1.GM23]
+   Generated File[ESP-MACRO-1.GM25]
+   Generated File[ESP-MACRO-1.GM28]
+   Generated File[ESP-MACRO-1.GM30]
+   Generated File[ESP-MACRO-1.GKO]
+   Generated File[ESP-MACRO-1.GPT]
+   Generated File[ESP-MACRO-1.GPB]
+   Generated File[ESP-MACRO-1.GD1]
+   Generated File[ESP-MACRO-1.GG1]
+   Generated File[ESP-MACRO-1.GM]
+   Generated File[ESP-MACRO-1.EXTREP]
+   Generated File[ESP-MACRO-1.REP]
+
+
+Files Generated   : 31
+Documents Printed : 0
+
+Finished Output Generation At 8:51:30 PM On 28/07/2025

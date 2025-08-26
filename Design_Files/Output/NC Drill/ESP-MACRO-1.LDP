@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: E:\CMT24Stuff\CloudStuff\ESP_32_MacroPad\ESP-MACRO-1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=esp-macro-1-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=esp-macro-1-slotholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=esp-macro-1-rectholes.txt|DrillLayers=gtl,g1,g2,gbl

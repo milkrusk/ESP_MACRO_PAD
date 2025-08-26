@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [ESP_32_MacroPad.PrjPcb]
+   Generated File[Bill of Materials-CMT Project Template Basic.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 8:53:42 PM On 28/07/2025
