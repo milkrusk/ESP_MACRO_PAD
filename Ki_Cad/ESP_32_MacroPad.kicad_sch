@@ -1,0 +1,104 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "fa2979d6-93e1-46a4-a1b3-a2c8f322786c")
+	(paper "A3")
+	(title_block
+		(title "ESP MACRO PAD")
+		(date "2025-09-14")
+		(rev "1")
+		(company "Ronald Tun")
+	)
+	(lib_symbols)
+	(sheet
+		(at 25.4 50.8)
+		(size 53.34 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d68b9454-3be0-4cdf-97ae-2db71bb82802")
+		(property "Sheetname" "Power"
+			(at 25.4 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 25.4 93.2946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ESP_32_MacroPad"
+				(path "/fa2979d6-93e1-46a4-a1b3-a2c8f322786c"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 106.68)
+		(size 76.2 63.5)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ecedfbc6-34a3-4949-a30c-8b61e069b54d")
+		(property "Sheetname" "ESP32 Micro"
+			(at 25.4 105.9684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "esp32_micro.kicad_sch"
+			(at 25.4 170.7646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ESP_32_MacroPad"
+				(path "/fa2979d6-93e1-46a4-a1b3-a2c8f322786c"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
