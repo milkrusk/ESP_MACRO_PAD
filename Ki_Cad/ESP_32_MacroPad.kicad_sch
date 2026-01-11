@@ -12,6 +12,48 @@
 	)
 	(lib_symbols)
 	(sheet
+		(at 205.74 187.96)
+		(size 66.04 58.42)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8516f4fe-d4fc-4356-b56a-1e957f015521")
+		(property "Sheetname" "Connectors"
+			(at 205.74 187.2484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Connectors.kicad_sch"
+			(at 205.74 246.9646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ESP_32_MacroPad"
+				(path "/fa2979d6-93e1-46a4-a1b3-a2c8f322786c"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 25.4 50.8)
 		(size 53.34 41.91)
 		(exclude_from_sim no)

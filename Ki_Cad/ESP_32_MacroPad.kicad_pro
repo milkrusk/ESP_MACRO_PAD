@@ -440,6 +440,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -637,6 +638,10 @@
     [
       "ecedfbc6-34a3-4949-a30c-8b61e069b54d",
       "ESP32 Micro"
+    ],
+    [
+      "8516f4fe-d4fc-4356-b56a-1e957f015521",
+      "Connectors"
     ]
   ],
   "text_variables": {
